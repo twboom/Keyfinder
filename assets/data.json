@@ -1,142 +1,144 @@
 {
-    "a": {
-        "sharp": {
-            "ionian": [],
-            "dorian": [],
-            "phrygian": [],
-            "lydian": [],
-            "mixolydian": [],
-            "aeolian": [],
-            "locrian": []
+    "scales": {
+        "a": {
+            "sharp": {
+                "ionian": [],
+                "dorian": [],
+                "phrygian": [],
+                "lydian": [],
+                "mixolydian": [],
+                "aeolian": [],
+                "locrian": []
+            },
+            "flat": {
+                "ionian": [],
+                "dorian": [],
+                "phrygian": [],
+                "lydian": [],
+                "mixolydian": [],
+                "aeolian": [],
+                "locrian": []
+            }
         },
-        "flat": {
-            "ionian": [],
-            "dorian": [],
-            "phrygian": [],
-            "lydian": [],
-            "mixolydian": [],
-            "aeolian": [],
-            "locrian": []
-        }
-    },
-    "b": {
-        "sharp": {
-            "ionian": [],
-            "dorian": [],
-            "phrygian": [],
-            "lydian": [],
-            "mixolydian": [],
-            "aeolian": [],
-            "locrian": []
+        "b": {
+            "sharp": {
+                "ionian": [],
+                "dorian": [],
+                "phrygian": [],
+                "lydian": [],
+                "mixolydian": [],
+                "aeolian": [],
+                "locrian": []
+            },
+            "flat": {
+                "ionian": [],
+                "dorian": [],
+                "phrygian": [],
+                "lydian": [],
+                "mixolydian": [],
+                "aeolian": [],
+                "locrian": []
+            }
         },
-        "flat": {
-            "ionian": [],
-            "dorian": [],
-            "phrygian": [],
-            "lydian": [],
-            "mixolydian": [],
-            "aeolian": [],
-            "locrian": []
-        }
-    },
-    "c": {
-        "sharp": {
-            "ionian": [],
-            "dorian": [],
-            "phrygian": [],
-            "lydian": [],
-            "mixolydian": [],
-            "aeolian": [],
-            "locrian": []
+        "c": {
+            "sharp": {
+                "ionian": ["C", "D", "E", "F", "G", "A", "B"],
+                "dorian": [],
+                "phrygian": [],
+                "lydian": [],
+                "mixolydian": [],
+                "aeolian": ["C", "D", "Eb", "F", "G", "Ab", "Bb"],
+                "locrian": []
+            },
+            "flat": {
+                "ionian": [],
+                "dorian": [],
+                "phrygian": [],
+                "lydian": [],
+                "mixolydian": [],
+                "aeolian": [],
+                "locrian": []
+            }
         },
-        "flat": {
-            "ionian": [],
-            "dorian": [],
-            "phrygian": [],
-            "lydian": [],
-            "mixolydian": [],
-            "aeolian": [],
-            "locrian": []
-        }
-    },
-    "d": {
-        "sharp": {
-            "ionian": [],
-            "dorian": [],
-            "phrygian": [],
-            "lydian": [],
-            "mixolydian": [],
-            "aeolian": [],
-            "locrian": []
+        "d": {
+            "sharp": {
+                "ionian": [],
+                "dorian": [],
+                "phrygian": [],
+                "lydian": [],
+                "mixolydian": [],
+                "aeolian": [],
+                "locrian": []
+            },
+            "flat": {
+                "ionian": [],
+                "dorian": [],
+                "phrygian": [],
+                "lydian": [],
+                "mixolydian": [],
+                "aeolian": [],
+                "locrian": []
+            }
         },
-        "flat": {
-            "ionian": [],
-            "dorian": [],
-            "phrygian": [],
-            "lydian": [],
-            "mixolydian": [],
-            "aeolian": [],
-            "locrian": []
-        }
-    },
-    "e": {
-        "sharp": {
-            "ionian": [],
-            "dorian": [],
-            "phrygian": [],
-            "lydian": [],
-            "mixolydian": [],
-            "aeolian": [],
-            "locrian": []
+        "e": {
+            "sharp": {
+                "ionian": [],
+                "dorian": [],
+                "phrygian": [],
+                "lydian": [],
+                "mixolydian": [],
+                "aeolian": [],
+                "locrian": []
+            },
+            "flat": {
+                "ionian": [],
+                "dorian": [],
+                "phrygian": [],
+                "lydian": [],
+                "mixolydian": [],
+                "aeolian": [],
+                "locrian": []
+            }
         },
-        "flat": {
-            "ionian": [],
-            "dorian": [],
-            "phrygian": [],
-            "lydian": [],
-            "mixolydian": [],
-            "aeolian": [],
-            "locrian": []
-        }
-    },
-    "f": {
-        "sharp": {
-            "ionian": [],
-            "dorian": [],
-            "phrygian": [],
-            "lydian": [],
-            "mixolydian": [],
-            "aeolian": [],
-            "locrian": []
+        "f": {
+            "sharp": {
+                "ionian": [],
+                "dorian": [],
+                "phrygian": [],
+                "lydian": [],
+                "mixolydian": [],
+                "aeolian": [],
+                "locrian": []
+            },
+            "flat": {
+                "ionian": [],
+                "dorian": [],
+                "phrygian": [],
+                "lydian": [],
+                "mixolydian": [],
+                "aeolian": [],
+                "locrian": []
+            }
         },
-        "flat": {
-            "ionian": [],
-            "dorian": [],
-            "phrygian": [],
-            "lydian": [],
-            "mixolydian": [],
-            "aeolian": [],
-            "locrian": []
-        }
-    },
-    "g": {
-        "sharp": {
-            "ionian": [],
-            "dorian": [],
-            "phrygian": [],
-            "lydian": [],
-            "mixolydian": [],
-            "aeolian": [],
-            "locrian": []
-        },
-        "flat": {
-            "ionian": [],
-            "dorian": [],
-            "phrygian": [],
-            "lydian": [],
-            "mixolydian": [],
-            "aeolian": [],
-            "locrian": []
+        "g": {
+            "sharp": {
+                "ionian": [],
+                "dorian": [],
+                "phrygian": [],
+                "lydian": [],
+                "mixolydian": [],
+                "aeolian": [],
+                "locrian": []
+            },
+            "flat": {
+                "ionian": [],
+                "dorian": [],
+                "phrygian": [],
+                "lydian": [],
+                "mixolydian": [],
+                "aeolian": [],
+                "locrian": []
+            }
         }
     }
 }
